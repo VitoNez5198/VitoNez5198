@@ -1,5 +1,6 @@
 # Sobre Mí:
 Desarrollador Backend | Python | API REST | PostgreSQL <br>
+
 Apasionado por la programación y la creación de soluciones backend robustas y escalables. Mi enfoque principal es el ecosistema de Python (Flask) y el diseño de APIs REST. Cuento con una certificación que valida mis fundamentos en el lenguaje y continúo profundizando en su aplicación para el desarrollo backend.
 
 Tengo experiencia trabajando con múltiples bases de datos SQL (PostgreSQL, MySQL, SQL Server y SQLite), con un interés especial en perfeccionarme y enfocarme en PostgreSQL como mi principal motor de bases de datos.
